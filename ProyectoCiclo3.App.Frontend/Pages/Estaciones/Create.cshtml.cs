@@ -10,8 +10,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class FormEstacionesModel : PageModel
     {
         public void OnGet()
-        {
- 
+        { 
         }
     }
 }
