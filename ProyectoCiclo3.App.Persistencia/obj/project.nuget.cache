@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MTC9WSXmelj8sk4j04UHbM/zcr902u4ThqmPFALnhnzaNF8YtOR98G2X6h45BP3xFGW9eiQBcGzCpMDX7PoyMw==",
+  "dgSpecHash": "0PAGFp21ct985qnBp2jRNZ+x61B6e1kTuBm/HY0JjUBvNXlGFo5ZK7QukhpwjvETjiBsYy/VCpnNNpC8e2fTCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mario\\Desktop\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Mario\\Desktop\\Proyectos\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

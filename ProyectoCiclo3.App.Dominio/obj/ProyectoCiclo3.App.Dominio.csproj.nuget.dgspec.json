@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mario\\Desktop\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
+    "C:\\Users\\Mario\\Desktop\\Proyectos\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mario\\Desktop\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "C:\\Users\\Mario\\Desktop\\Proyectos\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mario\\Desktop\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Mario\\Desktop\\Proyectos\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "C:\\Users\\Mario\\Desktop\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\Mario\\Desktop\\Proyectos\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mario\\Desktop\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Mario\\Desktop\\Proyectos\\83\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
