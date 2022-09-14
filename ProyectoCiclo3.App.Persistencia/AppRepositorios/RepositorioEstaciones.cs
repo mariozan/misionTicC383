@@ -7,7 +7,6 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
 {
     public class RepositorioEstaciones
     {
-        List<Estaciones> estaciones;
         private readonly AppContext _appContext = new AppContext();
  
         public IEnumerable<Estaciones> GetAll()
