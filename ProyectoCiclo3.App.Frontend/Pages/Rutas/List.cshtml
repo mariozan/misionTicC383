@@ -5,13 +5,22 @@
 
 <h1>Listado de Rutas</h1>
 <table class="table">
-    
+      <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Origen</th>
+      <th scope="col">Destino</th>
+      <th scope="col">Tiempo Estimado</th>
+      <th scope="col">Acciones</th>
+    </tr>
+  </thead>
+
     @foreach (var ruta in Model.Rutas)
     {
         <tr>
             <td>@ruta.id</td>
-            <td>@ruta.origen.nombre</td>
-            <td>@ruta.destino.nombre</td>
+            <td>@ruta.origen.nombre - @ruta.origen.direccion</td>
+            <td>@ruta.destino.nombre - @ruta.destino.direccion</td>
             <td>@ruta.tiempo_estimado</td>
 
             <td>
@@ -42,7 +51,7 @@
                 </div>
               </div>
             </div>
-              </td>
+          </td>
         </tr>
     }
 </table>

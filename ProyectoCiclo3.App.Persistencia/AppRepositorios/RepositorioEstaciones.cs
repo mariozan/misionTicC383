@@ -50,6 +50,5 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             }
             return null;
         }
-
     }
 }
